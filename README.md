@@ -1,8 +1,7 @@
 ## Steam Workshop
-https://steamcommunity.com/sharedfiles/filedetails/?id=2538387266
-
+[Addon Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2538387266)
 ## Discord
-[discord.gg/kWsX6RcrZC](https://discord.gg/kWsX6RcrZC)
+[ActMod Discord Server](https://discord.gg/kWsX6RcrZC)
 
 ## Credits
 - [**AhmedMake400**](https://steamcommunity.com/profiles/76561199185837385) - Addon creator
