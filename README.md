@@ -11,11 +11,11 @@
 
 
 ## Localization
-- [**AhmedMake400**](https://steamcommunity.com/profiles/76561199185837385) - **English**
-- [**AhmedMake400**](https://steamcommunity.com/profiles/76561199185837385) - **Chinese**
-- [MoistCr1tikal](http://steamcommunity.com/profiles/76561198071567487) - **Russian**
-- [NextKurome76TheSoldier](http://steamcommunity.com/profiles/76561197960487064) - **German**
-- [Tora](https://steamcommunity.com/profiles/76561198443702005) - **Turkish**
+- **English** - [**AhmedMake400**](https://steamcommunity.com/profiles/76561199185837385)
+- **Chinese** - [**AhmedMake400**](https://steamcommunity.com/profiles/76561199185837385)
+- **Russian** - [MoistCr1tikal](http://steamcommunity.com/profiles/76561198071567487)
+- **German** - [NextKurome76TheSoldier](http://steamcommunity.com/profiles/76561197960487064)
+- **Turkish** - [Tora](https://steamcommunity.com/profiles/76561198443702005)
 
 
 ## Special Thanks to
