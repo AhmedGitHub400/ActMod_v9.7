@@ -126,10 +126,14 @@ return {
 	,["LReplace_BxSCView3"] 	= "3-Birinci Şahıs (tüm oyuncu modelleriyle çalışmayabilir)"
 	,["LReplace_txt_Done"] 		= "Bitti"
 	,["LReplace_txt_Copy"] 		= "Kopyala"
-	,["LReplace_txt_CopyLink"] 	= "Link kopyalandı"
+	,["LReplace_txt_CopyLink"] 	= "Linki kopyala"
+--  ,["LReplace_txt_CopiedLink"] 	= "Link kopyalandı"
 	,["LReplace_txt_CopyName"] 	= "Adı kopyala"
+--	,["LReplace_txt_CopiedName"] 	= "Ad kopyalandı"
 	,["LReplace_txt_CopyCode"] 	= "Kodu kopyala"
+--	,["LReplace_txt_CopiedCode"] 	= "Kodu kopyalandı"
 	,["LReplace_txt_CopyID"] 	= "ID'yi kopyala"
+--	,["LReplace_txt_CopiedID"] 	= "ID kopyalandı"
 	,["LReplace_txt_AddF"] 		= "Favorilere ekle"
 	,["LReplace_txt_RemfF"] 	= "Favorilerden kaldır"
 	,["LReplace_txt_Editit"] 	= "Düzenle"
@@ -330,6 +334,4 @@ return {
 	,["TeamDance_c_on"]			= "Açık"
 	,["TeamDance_c_off"]		= "Kapalı"
 	,["TeamDance_c_Doyt"]		= "Takımda Yinelenen Oyuncu"
-
 }
-
