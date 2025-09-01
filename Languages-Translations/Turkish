@@ -1,6 +1,6 @@
 return {
 	["cr_txtMND"]				= "MMD Animasyon dosyası"
-	,["cr_txtFortnite"]			= "Fortnite Animasyon dosyası"
+	,["cr_txtFortnite"]			= "Fortnite Animasyon Dosyası"
 	,["cr_txtAL_"]				= "Çeviri:"
 	,["cr_txtProg_"]			= "programlama"
 	,["cr_txtProg2_"]			= "programlama ve testler"
@@ -330,4 +330,5 @@ return {
 	,["TeamDance_c_on"]			= "Açık"
 	,["TeamDance_c_off"]		= "Kapalı"
 	,["TeamDance_c_Doyt"]		= "Takımda Yinelenen Oyuncu"
+
 }
