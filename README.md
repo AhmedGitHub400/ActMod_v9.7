@@ -11,6 +11,7 @@
 
 
 ## Localization
+- [**AhmedMake400**](https://steamcommunity.com/profiles/76561199185837385) - **English**
 - [**AhmedMake400**](https://steamcommunity.com/profiles/76561199185837385) - **Chinese**
 - [MoistCr1tikal](http://steamcommunity.com/profiles/76561198071567487) - **Russian**
 - [NextKurome76TheSoldier](http://steamcommunity.com/profiles/76561197960487064) - **German**
