@@ -1,6 +1,6 @@
 return {
 	["cr_txtMND"]				= "MMD Animasyon dosyası"
-	,["cr_txtFortnite"]			= "Fortnite Animasyon Dosyası"
+	,["cr_txtFortnite"]			= "Fortnite Animasyon dosyası"
 	,["cr_txtAL_"]				= "Çeviri:"
 	,["cr_txtProg_"]			= "programlama"
 	,["cr_txtProg2_"]			= "programlama ve testler"
@@ -61,7 +61,7 @@ return {
 	,["AL_COS_EF"] 				= "Efektleri Etkinleştir"
 	,["AL_COS_Ky"] 				= "Tuş :"
 	,["AL_COS_EnLodng"] 		= "Yüklemeyi etkinleştir..."
-	,["AL_COS_EnLodng_hlp"] 	= "RAM'deki içeriği hazırlamak için yüklemeyi etkinleştir"
+	,["AL_COS_EnLodng_hlp"] 	= "RAM'deki içeriği hazırlamak için yüklemeyi etkinleştirir"
 	,["AL_COS_SMEr_hlp"] 		= "ActMod Hata İletisi Göster"
 	,["AL_COS_CKy"] 			= "Başka bir tuşa ata"
 	,["AL_COS_ES"] 				= "Sesi Etkinleştir"
@@ -332,3 +332,4 @@ return {
 	,["TeamDance_c_Doyt"]		= "Takımda Yinelenen Oyuncu"
 
 }
+
