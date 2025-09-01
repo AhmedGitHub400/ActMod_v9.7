@@ -1,6 +1,6 @@
 return {
 	["cr_txtMND"]				= "MMD Animation file"
-	,["cr_txtFortnite"]			= "Fortnite Animation file"
+	,["cr_txtFortnite"]			= "Fortnite Animation File"
 	,["cr_txtAL_"]				= "Language translation:"
 	,["cr_txtProg_"]			= "programming"
 	,["cr_txtProg2_"]			= "programming and tests"
@@ -330,4 +330,5 @@ return {
 	,["TeamDance_c_on"]			= "On"
 	,["TeamDance_c_off"]		= "Off"
 	,["TeamDance_c_Doyt"]		= "Duplicate on Your Team"
+
 }
