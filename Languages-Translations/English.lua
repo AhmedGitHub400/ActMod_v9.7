@@ -126,8 +126,7 @@ return {
 	,["LReplace_BxSCView3"] 	= "3-From Eye (may not work with all player models)"
 	,["LReplace_txt_Done"] 		= "Done"
 	,["LReplace_txt_Copy"] 		= "Copy"
-	,["LReplace_txt_CopyLink"] 	= "Copy the link"
---  ,["LReplace_txt_CopiedLink"] 	= "Link Copied"
+	,["LReplace_txt_CopyLink"] 	= "Link Copied"
 	,["LReplace_txt_CopyName"] 	= "Copy Name"
 --	,["LReplace_txt_CopiedName"] 	= "Name Copied"
 	,["LReplace_txt_CopyCode"] 	= "Copy the Code"
@@ -335,3 +334,4 @@ return {
 	,["TeamDance_c_off"]		= "Off"
 	,["TeamDance_c_Doyt"]		= "Duplicate on Your Team"
 }
+
