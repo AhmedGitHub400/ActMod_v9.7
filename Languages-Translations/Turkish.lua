@@ -131,7 +131,7 @@ return {
 	,["LReplace_txt_CopyName"] 	= "Adı kopyala"
 --	,["LReplace_txt_CopiedName"] 	= "Ad kopyalandı"
 	,["LReplace_txt_CopyCode"] 	= "Kodu kopyala"
---	,["LReplace_txt_CopiedCode"] 	= "Kodu kopyalandı"
+--	,["LReplace_txt_CopiedCode"] 	= "Kod kopyalandı"
 	,["LReplace_txt_CopyID"] 	= "ID'yi kopyala"
 --	,["LReplace_txt_CopiedID"] 	= "ID kopyalandı"
 	,["LReplace_txt_AddF"] 		= "Favorilere ekle"
@@ -307,7 +307,7 @@ return {
 	
 	,["Your_TeamDance:"]		= "TeamDance'iniz: "
 	,["You_in_TeamDance:"]		= "Şu TeamDance'dasınız: "
-	,["List_TeamDance"]			= "TeamDance'i listele"
+	,["List_TeamDance"]			= "TeamDance Listesi"
 	,["Version_"]				= "Sürüm 2.5"
 	,["L_t_p_o_y_t"]			= "Takımınızdaki oyuncuların listesi"
 	,["L_o_p_o_t_t"]			= "Bu takımdaki kişilerin listesi"
