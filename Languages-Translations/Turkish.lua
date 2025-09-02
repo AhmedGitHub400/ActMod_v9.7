@@ -126,8 +126,7 @@ return {
 	,["LReplace_BxSCView3"] 	= "3-Birinci Şahıs (tüm oyuncu modelleriyle çalışmayabilir)"
 	,["LReplace_txt_Done"] 		= "Bitti"
 	,["LReplace_txt_Copy"] 		= "Kopyala"
-	,["LReplace_txt_CopyLink"] 	= "Linki kopyala"
---  ,["LReplace_txt_CopiedLink"] 	= "Link kopyalandı"
+	,["LReplace_txt_CopyLink"] 	= "Link kopyalandı"
 	,["LReplace_txt_CopyName"] 	= "Adı kopyala"
 --	,["LReplace_txt_CopiedName"] 	= "Ad kopyalandı"
 	,["LReplace_txt_CopyCode"] 	= "Kodu kopyala"
@@ -335,3 +334,4 @@ return {
 	,["TeamDance_c_off"]		= "Kapalı"
 	,["TeamDance_c_Doyt"]		= "Takımda Yinelenen Oyuncu"
 }
+
